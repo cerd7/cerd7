@@ -24,8 +24,6 @@
 ##
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" height="40" alt="GO LOGO"/>
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" height="40" alt="GIT LOGO"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" height="40" alt="JAVA LOGO"  />
