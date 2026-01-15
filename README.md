@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Hey What's up?</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=24&center=true&vCenter=true&lines=System+Analyst;Java+Developer;Tech+Enthusiast" />
@@ -10,20 +10,20 @@
 
 ###
 
-<h3 align="left">About me 🚀</h3>
+<h3 align="left">About me: </h3>
 
-👨‍💻 Java developer passionate about transforming ideas into innovative solutions.  
-🌐 Immersed in the world of Computer Science, always seeking to expand my knowledge and skills.  
-⚙️ Constantly evolving to face new challenges and contribute to technological evolution.
+• Java developer passionate about transforming ideas into innovative solutions.  
+• Immersed in the world of Computer Science, always seeking to expand my knowledge and skills.  
+• Constantly evolving to face new challenges and contribute to technological evolution.
 
 <br>
 
-**📚 I'm currently learning:** Application development with Java and Algorithms  
-**🎯 Goals:** Create something big and relevant for society.
+• I'm currently learning:** Application development with Java and Algorithms  
+• Goals: Create something big and relevant for society.
 
 ###
 
-<h3 align="left">Languages and Tools 🛠️</h3>
+<h3 align="left">Languages and Tools 👾</h3>
 
 <div align="left">
 
@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">Connect with me 🤝</h3>
+<h3 align="left">Connect with me</h3>
 
 <p align="left">
   <a href="mailto:contatocaiorodrigues1@gmail.com" target="_blank">
@@ -46,11 +46,11 @@
 
 ###
 
-<h3 align="left">GitHub Stats 📊</h3>
+<!-- <h3 align="left">GitHub Stats 📊</h3>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cerd7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerd7&layout=compact&langs_count=7&theme=dracula" />
-</div>
+</div -->
 
 ---
