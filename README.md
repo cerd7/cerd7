@@ -1,5 +1,3 @@
-<h1 align="center">Caio Rodrigues</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=22&center=true&vCenter=true&lines=System+Analyst;Java+Developer;Architect+of+Logical+Systems" />
 </p>
