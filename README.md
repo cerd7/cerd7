@@ -15,12 +15,12 @@ I treat software as a universe governed by laws: logic, mathematics and experime
 <img alt="computer-code-w-error" width="350" align="right" src="https://github.com/user-attachments/assets/c72c6db7-651f-4a8f-abaf-c54ddd400d67" />
 
 Current research field:  
-• Java application development  
+. Java application development  
 • Algorithms and data structures  
 • Computational thinking inspired by physics and mathematics  
 
 Mission:  
-• Create systems with measurable social and technological impact.
+> Create systems with measurable social and technological impact.
 
 <h3>Core Technologies</h3>
 
@@ -44,5 +44,5 @@ Mission:
 ---
 
 <p align="center">
-“Code is not just instructions. It is a model of how the world could work.”
+  "Code is not just instructions. It is a model of how the world could work."
 </p>
