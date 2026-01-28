@@ -12,6 +12,8 @@ I treat software as a universe governed by laws: logic, mathematics and experime
 • Computer Science student focused on algorithms, operating systems and artificial intelligence foundations.  
 • I don’t just write code. I model reality into structures that machines can understand.
 
+<img alt="computer-code-w-error" width="350" align="right" src="https://github.com/user-attachments/assets/c72c6db7-651f-4a8f-abaf-c54ddd400d67" />
+
 Current research field:  
 • Java application development  
 • Algorithms and data structures  
