@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=22&center=true&vCenter=true&lines=System+Analyst;Java+Developer;Architect+of+Logical+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=DDEAEE&width=435&lines=System+Analyst;Java+Developer;Architect+of+Logical+Systems" />
 </p>
 
 <p align="center">
