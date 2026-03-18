@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=DDEAEE&width=435&lines=System+Analyst;Java+Developer;Architect+of+Logical+Systems" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=DDEAEE&center=true&random=true&width=435&lines=System+Analyst;Java+Developer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
